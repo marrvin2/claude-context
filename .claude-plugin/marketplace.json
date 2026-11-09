@@ -1,0 +1,5 @@
+{
+  "name": "context-mod",
+  "owner": { "name": "marrvin2" },
+  "plugins": [{ "name": "context", "source": "./" }]
+}
